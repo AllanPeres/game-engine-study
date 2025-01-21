@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\allan\\source\\repos\\game-engine-study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\gameproject\\openprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\gameproject\\openprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\gameproject\\projectbrowserdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\gameproject\\projectbrowserdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\gameproject\\projectbrowserdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\gameproject\\projectbrowserdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\gameproject\\newprojectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\gameproject\\newprojectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\gameproject\\openprojectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\gameproject\\openprojectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\gameproject\\newprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\gameproject\\newprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewProjectView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\NewProjectView.xaml.cs",
+              "RelativeDocumentMoniker": "Editor\\GameProject\\NewProjectView.xaml.cs",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\NewProjectView.xaml.cs",
+              "RelativeToolTip": "Editor\\GameProject\\NewProjectView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:52:57.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectBrowserDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\ProjectBrowserDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Editor\\GameProject\\ProjectBrowserDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\ProjectBrowserDialog.xaml.cs",
+              "RelativeToolTip": "Editor\\GameProject\\ProjectBrowserDialog.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:52:50.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenProjectView.xaml",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\OpenProjectView.xaml",
+              "RelativeDocumentMoniker": "Editor\\GameProject\\OpenProjectView.xaml",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\OpenProjectView.xaml",
+              "RelativeToolTip": "Editor\\GameProject\\OpenProjectView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T10:51:34.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenProjectView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\OpenProjectView.xaml.cs",
+              "RelativeDocumentMoniker": "Editor\\GameProject\\OpenProjectView.xaml.cs",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\OpenProjectView.xaml.cs",
+              "RelativeToolTip": "Editor\\GameProject\\OpenProjectView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:51:32.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectBrowserDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\ProjectBrowserDialog.xaml",
+              "RelativeDocumentMoniker": "Editor\\GameProject\\ProjectBrowserDialog.xaml",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\ProjectBrowserDialog.xaml",
+              "RelativeToolTip": "Editor\\GameProject\\ProjectBrowserDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T10:18:34.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewProjectView.xaml",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\NewProjectView.xaml",
+              "RelativeDocumentMoniker": "Editor\\GameProject\\NewProjectView.xaml",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\NewProjectView.xaml",
+              "RelativeToolTip": "Editor\\GameProject\\NewProjectView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T10:51:59.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
