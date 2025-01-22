@@ -13,16 +13,11 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Editor.GameProject
-{
-    /// <summary>
-    /// Interação lógica para NewProjectView.xam
-    /// </summary>
-    public partial class NewProjectView : UserControl
-    {
-        public NewProjectView()
-        {
+namespace Editor.GameProject {
+    public partial class NewProjectView : UserControl {
+        public NewProjectView() {
             InitializeComponent();
+            
         }
     }
 }

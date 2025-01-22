@@ -25,3 +25,8 @@ C:\Users\allan\source\repos\game-engine-study\Editor\obj\Debug\net8.0-windows\Ga
 C:\Users\allan\source\repos\game-engine-study\Editor\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\allan\source\repos\game-engine-study\Editor\obj\Debug\net8.0-windows\GameProject\NewProjectView.baml
 C:\Users\allan\source\repos\game-engine-study\Editor\obj\Debug\net8.0-windows\GameProject\OpenProjectView.baml
+C:\Users\allan\source\repos\game-engine-study\Editor\obj\Debug\net8.0-windows\Editor.sourcelink.json
+C:\Users\allan\source\repos\game-engine-study\Editor\bin\Debug\net8.0-windows\ProjectTemplates\EmptyProject\template.xml
+C:\Users\allan\source\repos\game-engine-study\Editor\bin\Debug\net8.0-windows\ProjectTemplates\FirstPerson\template.xml
+C:\Users\allan\source\repos\game-engine-study\Editor\bin\Debug\net8.0-windows\ProjectTemplates\ThirdPerson\template.xml
+C:\Users\allan\source\repos\game-engine-study\Editor\bin\Debug\net8.0-windows\ProjectTemplates\TopDown\template.xml
