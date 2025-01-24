@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\allan\\source\\repos\\game-engine-study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\gameproject\\newprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\gameproject\\newprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\gameproject\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\gameproject\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\gameproject\\openprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\gameproject\\openprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\gameproject\\newprojectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\gameproject\\newprojectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\gameproject\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\gameproject\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\common\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\common\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\projecttemplates\\emptyproject\\project.gameunited||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\projecttemplates\\emptyproject\\project.gameunited||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\gameproject\\newproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\gameproject\\newproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\utilities\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\utilities\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\editor\\gameproject\\newprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|Editor\\Editor.csproj|solutionrelative:editor\\gameproject\\newprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,48 +43,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OpenProjectView.xaml",
-              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\OpenProjectView.xaml",
-              "RelativeDocumentMoniker": "Editor\\GameProject\\OpenProjectView.xaml",
-              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\OpenProjectView.xaml",
-              "RelativeToolTip": "Editor\\GameProject\\OpenProjectView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-21T12:46:45.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NewProject.cs",
-              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\NewProject.cs",
-              "RelativeDocumentMoniker": "Editor\\GameProject\\NewProject.cs",
-              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\NewProject.cs",
-              "RelativeToolTip": "Editor\\GameProject\\NewProject.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAiwEQAAABZAAAAAAAAAA==",
+              "Title": "NewProjectView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\NewProjectView.xaml.cs",
+              "RelativeDocumentMoniker": "Editor\\GameProject\\NewProjectView.xaml.cs",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\NewProjectView.xaml.cs",
+              "RelativeToolTip": "Editor\\GameProject\\NewProjectView.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T11:22:52.545Z"
+              "WhenOpened": "2025-01-22T11:13:34.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Serializer.cs",
-              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\Utilities\\Serializer.cs",
-              "RelativeDocumentMoniker": "Editor\\Utilities\\Serializer.cs",
-              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\Utilities\\Serializer.cs",
-              "RelativeToolTip": "Editor\\Utilities\\Serializer.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAgAAAAAAAAAA==",
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\Common\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "Editor\\Common\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\Common\\ViewModelBase.cs",
+              "RelativeToolTip": "Editor\\Common\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T11:58:07.272Z"
+              "WhenOpened": "2025-01-22T11:06:21.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\Scene.cs",
+              "RelativeDocumentMoniker": "Editor\\GameProject\\Scene.cs",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\Scene.cs",
+              "RelativeToolTip": "Editor\\GameProject\\Scene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:03:12.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\Project.cs",
+              "RelativeDocumentMoniker": "Editor\\GameProject\\Project.cs",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\Project.cs",
+              "RelativeToolTip": "Editor\\GameProject\\Project.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:57:24.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "NewProjectView.xaml",
               "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\NewProjectView.xaml",
               "RelativeDocumentMoniker": "Editor\\GameProject\\NewProjectView.xaml",
               "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\NewProjectView.xaml",
               "RelativeToolTip": "Editor\\GameProject\\NewProjectView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-21T11:22:53.499Z",
+              "WhenOpened": "2025-01-22T10:28:52.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewProject.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\NewProject.cs",
+              "RelativeDocumentMoniker": "Editor\\GameProject\\NewProject.cs",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\GameProject\\NewProject.cs",
+              "RelativeToolTip": "Editor\\GameProject\\NewProject.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:15:39.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "project.gameunited",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\ProjectTemplates\\EmptyProject\\project.gameunited",
+              "RelativeDocumentMoniker": "Editor\\ProjectTemplates\\EmptyProject\\project.gameunited",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\Editor\\ProjectTemplates\\EmptyProject\\project.gameunited",
+              "RelativeToolTip": "Editor\\ProjectTemplates\\EmptyProject\\project.gameunited",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-22T10:53:13.426Z",
               "EditorCaption": ""
             }
           ]
