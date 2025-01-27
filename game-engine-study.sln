@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "Engine\Engine.vcxproj", "{197F1B3A-69BE-4D18-8992-D362A5E30E08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Editor", "Editor\Editor.csproj", "{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUnitedEditor", "GameUnitedEditor\GameUnitedEditor.csproj", "{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
