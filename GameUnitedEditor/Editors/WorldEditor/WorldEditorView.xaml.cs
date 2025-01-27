@@ -13,12 +13,12 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace GameUnitedEditor.Editors.WorldEditor {
+namespace GameUnitedEditor.Editors {
     /// <summary>
     /// Interação lógica para WorldEditor.xam
     /// </summary>
-    public partial class WorldEditor : UserControl {
-        public WorldEditor() {
+    public partial class WorldEditorView : UserControl {
+        public WorldEditorView() {
             InitializeComponent();
         }
     }

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\allan\\source\\repos\\game-engine-study\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\gameunitededitor\\editors\\worldeditor\\worldeditorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|solutionrelative:gameunitededitor\\editors\\worldeditor\\worldeditorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\gameunitededitor\\editors\\worldeditor\\worldeditorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|solutionrelative:gameunitededitor\\editors\\worldeditor\\worldeditorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\gameunitededitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|solutionrelative:gameunitededitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -14,18 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\MainWindow.xaml",
               "RelativeDocumentMoniker": "GameUnitedEditor\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\MainWindow.xaml",
               "RelativeToolTip": "GameUnitedEditor\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-27T09:37:30.595Z",
+              "WhenOpened": "2025-01-27T09:56:05.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorldEditorView.xaml",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml",
+              "RelativeDocumentMoniker": "GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml",
+              "RelativeToolTip": "GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-27T09:45:36.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorldEditorView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml.cs",
+              "RelativeDocumentMoniker": "GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml.cs",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml.cs",
+              "RelativeToolTip": "GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:45:34.341Z",
               "EditorCaption": ""
             }
           ]
