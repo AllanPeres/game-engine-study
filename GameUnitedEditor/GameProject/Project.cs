@@ -62,13 +62,24 @@ namespace GameUnitedEditor.GameProject {
 
         }
 
+        public void AddScene(String sceneName) {
+            Debug.Assert(!string.IsNullOrEmpty(sceneName));
+            _scenes.Add(new Scene(this, sceneName));
+        }
+
+        public void RemoveScene(Scene scene) {
+            Debug.Assert(_scenes.Contains(scene));
+            _scenes.Remove(scene);
+        }
+
+
         [OnDeserialized]
         private void OnDeserialized(StreamingContext context) {
             if (_scenes != null) {
                 Scenes = new ReadOnlyObservableCollection<Scene>(_scenes);
                 OnPropertyChanged(nameof(Scenes));
             }
-            ActiveScene = Scenes.FirstOrDefault(x => x._isActive);
+            ActiveScene = Scenes.FirstOrDefault(x => x.IsActive);
         }
     }
 }

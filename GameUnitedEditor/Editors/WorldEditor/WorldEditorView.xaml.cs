@@ -14,9 +14,6 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace GameUnitedEditor.Editors {
-    /// <summary>
-    /// Interação lógica para WorldEditor.xam
-    /// </summary>
     public partial class WorldEditorView : UserControl {
         public WorldEditorView() {
             InitializeComponent();

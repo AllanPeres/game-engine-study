@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\allan\\source\\repos\\game-engine-study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\gameunitededitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|solutionrelative:gameunitededitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\gameunitededitor\\gameproject\\openprojectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|solutionrelative:gameunitededitor\\gameproject\\openprojectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\gameunitededitor\\gameproject\\openprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|solutionrelative:gameunitededitor\\gameproject\\openprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\gameunitededitor\\editors\\worldeditor\\projectlayoutview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|solutionrelative:gameunitededitor\\editors\\worldeditor\\projectlayoutview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\gameunitededitor\\editors\\worldeditor\\projectlayoutview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|solutionrelative:gameunitededitor\\editors\\worldeditor\\projectlayoutview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\gameunitededitor\\gameproject\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|solutionrelative:gameunitededitor\\gameproject\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\gameunitededitor\\editors\\worldeditor\\worldeditorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -13,6 +29,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\gameunitededitor\\editors\\worldeditor\\worldeditorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|solutionrelative:gameunitededitor\\editors\\worldeditor\\worldeditorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\gameunitededitor\\gameproject\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|solutionrelative:gameunitededitor\\gameproject\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|c:\\users\\allan\\source\\repos\\game-engine-study\\gameunitededitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D0F4E8A-8A04-4AD8-8302-9C9E63D25032}|GameUnitedEditor\\GameUnitedEditor.csproj|solutionrelative:gameunitededitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,18 +51,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "GameUnitedEditor\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\MainWindow.xaml",
-              "RelativeToolTip": "GameUnitedEditor\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-27T09:56:05.165Z",
+              "Title": "OpenProjectView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\GameProject\\OpenProjectView.xaml.cs",
+              "RelativeDocumentMoniker": "GameUnitedEditor\\GameProject\\OpenProjectView.xaml.cs",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\GameProject\\OpenProjectView.xaml.cs",
+              "RelativeToolTip": "GameUnitedEditor\\GameProject\\OpenProjectView.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:36:24.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OpenProjectView.xaml",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\GameProject\\OpenProjectView.xaml",
+              "RelativeDocumentMoniker": "GameUnitedEditor\\GameProject\\OpenProjectView.xaml",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\GameProject\\OpenProjectView.xaml",
+              "RelativeToolTip": "GameUnitedEditor\\GameProject\\OpenProjectView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T09:36:09.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\GameProject\\Project.cs",
+              "RelativeDocumentMoniker": "GameUnitedEditor\\GameProject\\Project.cs",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\GameProject\\Project.cs",
+              "RelativeToolTip": "GameUnitedEditor\\GameProject\\Project.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:28:19.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectLayoutView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\Editors\\WorldEditor\\ProjectLayoutView.xaml.cs",
+              "RelativeDocumentMoniker": "GameUnitedEditor\\Editors\\WorldEditor\\ProjectLayoutView.xaml.cs",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\Editors\\WorldEditor\\ProjectLayoutView.xaml.cs",
+              "RelativeToolTip": "GameUnitedEditor\\Editors\\WorldEditor\\ProjectLayoutView.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:28:10.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectLayoutView.xaml",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\Editors\\WorldEditor\\ProjectLayoutView.xaml",
+              "RelativeDocumentMoniker": "GameUnitedEditor\\Editors\\WorldEditor\\ProjectLayoutView.xaml",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\Editors\\WorldEditor\\ProjectLayoutView.xaml",
+              "RelativeToolTip": "GameUnitedEditor\\Editors\\WorldEditor\\ProjectLayoutView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T08:20:10.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WorldEditorView.xaml",
               "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml",
               "RelativeDocumentMoniker": "GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml",
@@ -50,16 +125,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "WorldEditorView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml.cs",
               "RelativeDocumentMoniker": "GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml.cs",
               "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml.cs",
               "RelativeToolTip": "GameUnitedEditor\\Editors\\WorldEditor\\WorldEditorView.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T09:45:34.341Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\GameProject\\Scene.cs",
+              "RelativeDocumentMoniker": "GameUnitedEditor\\GameProject\\Scene.cs",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\GameProject\\Scene.cs",
+              "RelativeToolTip": "GameUnitedEditor\\GameProject\\Scene.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwBcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:28:37.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GameUnitedEditor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\allan\\source\\repos\\game-engine-study\\GameUnitedEditor\\MainWindow.xaml",
+              "RelativeToolTip": "GameUnitedEditor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-27T09:56:05.165Z"
             }
           ]
         }

@@ -27,6 +27,7 @@
             </Grid.RowDefinitions>
             <GridSplitter Grid.Row="1" Height="5" HorizontalAlignment="Stretch"
                           VerticalAlignment="Top"/>
+            <local:ProjectLayoutView/>
         </Grid>
     </Grid>
 </UserControl>
