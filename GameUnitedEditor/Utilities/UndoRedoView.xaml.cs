@@ -1,5 +1,4 @@
-﻿using GameUnitedEditor.GameProject;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,11 +10,15 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace GameUnitedEditor.Editors {
-    public partial class ProjectLayoutView : UserControl {
-        public ProjectLayoutView() {
+namespace GameUnitedEditor.Utilities {
+    /// <summary>
+    /// Interação lógica para UndoRedoView.xam
+    /// </summary>
+    public partial class UndoRedoView : UserControl {
+        public UndoRedoView() {
             InitializeComponent();
         }
     }

@@ -11,6 +11,7 @@ using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Input;
 
 namespace GameUnitedEditor.GameProject {
 
@@ -19,6 +20,7 @@ namespace GameUnitedEditor.GameProject {
 
         public static string Extension { get; } = ".gameunited";
         public static Project Current => Application.Current.MainWindow.DataContext as Project;
+        public static UndoRedo UndoRedo { get; } = new();
 
         [DataMember]
         public string Name { get; private set; } = "New Project";
@@ -38,9 +40,14 @@ namespace GameUnitedEditor.GameProject {
                 }
             }
         }
-
-
         public string FullPath => $"{Path}{Name}{Extension}";
+
+        public ICommand Undo {  get; set; }
+        public ICommand Redo { get; set; }
+
+        public ICommand AddScene { get; private set; }
+
+        public ICommand RemoveScene { get; private set; }
 
         public Project(string name, string path) {
             Name = name;
@@ -62,12 +69,12 @@ namespace GameUnitedEditor.GameProject {
 
         }
 
-        public void AddScene(String sceneName) {
+        private void AddSceneInternal(String sceneName) {
             Debug.Assert(!string.IsNullOrEmpty(sceneName));
             _scenes.Add(new Scene(this, sceneName));
         }
 
-        public void RemoveScene(Scene scene) {
+        private void RemoveSceneInternal(Scene scene) {
             Debug.Assert(_scenes.Contains(scene));
             _scenes.Remove(scene);
         }
@@ -80,6 +87,28 @@ namespace GameUnitedEditor.GameProject {
                 OnPropertyChanged(nameof(Scenes));
             }
             ActiveScene = Scenes.FirstOrDefault(x => x.IsActive);
+
+            AddScene = new RelayCommand<object>(x => {
+                AddSceneInternal($"New Scene {_scenes.Count}");
+                var newScene = _scenes.Last();
+                var sceneIndex = _scenes.Count - 1;
+                UndoRedo.Add(new UndoRedoAction(
+                    () => RemoveSceneInternal(newScene), 
+                    () => _scenes.Insert(sceneIndex, newScene), 
+                    $"Add Scene {newScene.Name}"));
+            });
+
+            RemoveScene = new RelayCommand<Scene>(x => {
+                var sceneIndex = _scenes.IndexOf(x);
+                RemoveSceneInternal(x);
+                UndoRedo.Add(new UndoRedoAction(
+                    () => _scenes.Insert(sceneIndex, x),
+                    () => RemoveSceneInternal(x),
+                    $"Remove Scene {x.Name}"));
+            }, x => !x.IsActive);
+
+            Undo = new RelayCommand<object>(x => UndoRedo.Undo());
+            Redo = new RelayCommand<object>(x => UndoRedo.Redo());
         }
     }
 }
